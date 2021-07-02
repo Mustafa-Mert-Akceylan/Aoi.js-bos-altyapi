@@ -1,0 +1,15 @@
+{
+  "name": "bear-development",
+  "version": "1.0.0",
+  "description": "Bear Development Boş Altyapısı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "M²#0001",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^4.0.2"
+  }
+}
