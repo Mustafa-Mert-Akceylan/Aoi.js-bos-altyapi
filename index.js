@@ -1,5 +1,5 @@
 const Aoijs = require("aoi.js")
-const bot = new Bear.Bot({
+const bot = new Aoijs.Bot({
   mobile: false, //Botun Durumunda Telefon Görünmesini İstiyorsanız true İstemiyorsanız false yazın
   token: "", //Tokeni Grin
   prefix: ["PREFIX"] //Buraya Prefixiniz Girin
