@@ -30,5 +30,4 @@ name: "Selam",
 code: `Merhaba Dünya !` 
 })
 //Deneme Komutudur <3
-//Bear Development
 //M²#0001
