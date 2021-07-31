@@ -3,4 +3,3 @@ module.exports = {
     code:`Bear Development ! <3 `
 }
 //Deneme Komutudur <3
-//Bear Development
